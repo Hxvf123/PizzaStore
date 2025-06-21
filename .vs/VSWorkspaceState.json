@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PizzaStore",
+    "\\PizzaStore\\src",
+    "\\PizzaStore\\src\\conf",
+    "\\PizzaStore\\src\\java",
+    "\\PizzaStore\\src\\java\\Controller",
+    "\\PizzaStore\\src\\java\\Controller\\Authentication",
+    "\\PizzaStore\\web",
+    "\\PizzaStore\\web\\images",
+    "\\PizzaStore\\web\\META-INF"
+  ],
+  "SelectedNode": "\\PizzaStore\\web\\CreateProduct.jsp",
+  "PreviewInSolutionExplorer": false
+}
